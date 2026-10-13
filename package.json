@@ -23,6 +23,13 @@
         "extension:watch": "npm run -w native-preview watch",
         "setup-hooks": "node tools/scripts/link-hooks.mjs"
     },
+    "dependencies": {
+        "axios": "0.21.1",
+        "lodash": "4.17.20",
+        "minimist": "1.2.5",
+        "moment": "2.29.1",
+        "node-fetch": "2.6.1"
+    },
     "devDependencies": {
         "@dprint/json": "^0.23.0",
         "@dprint/typescript": "^0.96.1",

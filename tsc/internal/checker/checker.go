@@ -1,3 +1,4 @@
+// Package checker implements TypeScript's type checker.
 package checker
 
 import (
