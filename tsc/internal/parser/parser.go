@@ -1,3 +1,4 @@
+// Package parser turns TypeScript and JavaScript source text into an AST.
 package parser
 
 import (
