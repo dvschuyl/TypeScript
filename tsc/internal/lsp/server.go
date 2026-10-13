@@ -1,3 +1,4 @@
+// Package lsp serves the TypeScript language server over JSON-RPC.
 package lsp
 
 import (
