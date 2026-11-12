@@ -12,7 +12,7 @@ import (
 	"github.com/microsoft/TypeScript/tsc/internal/tspath"
 )
 
-// Atomic ids
+// Atomic ids assigned to nodes and symbols. Zero means an id has not been allocated yet.
 
 var (
 	nextNodeId        atomic.Uint64

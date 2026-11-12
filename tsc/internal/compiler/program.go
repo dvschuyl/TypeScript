@@ -1,3 +1,4 @@
+// Package compiler builds a TypeScript program from source files and compiler options.
 package compiler
 
 import (

@@ -1,3 +1,4 @@
+// Package ast defines the TypeScript syntax tree and the helpers that walk it.
 package ast
 
 import (
